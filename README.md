@@ -1,4 +1,4 @@
-[![npm package](https://badge.fury.io/js/oidc-client.svg)](https://www.npmjs.com/package/oidc-client)
+# NON-OFFICIAL - Only forked as a temporary workaround 
 
 # oidc-client
 
